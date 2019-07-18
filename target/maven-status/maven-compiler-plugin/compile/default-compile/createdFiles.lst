@@ -1,0 +1,5 @@
+org/dbmlab/orders/model/OrderRepository.class
+org/dbmlab/orders/controller/OrdersController.class
+org/dbmlab/orders/model/OrderItem.class
+org/dbmlab/orders/model/Order.class
+org/dbmlab/orders/OrdersApiApplication.class
